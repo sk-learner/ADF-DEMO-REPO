@@ -1,0 +1,9 @@
+{
+	"name": "ConnectGithubADF",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "815ce55d-3876-4e39-b012-53d237730140",
+		"tenantId": "f14a5255-efbc-4dc1-8468-c402cfcc3eef"
+	}
+}
